@@ -1,5 +1,9 @@
 # Changelog
 
+## r4 (2019/05/22)
+
+* New release : 3.4.20 (Issue neard/neard#412)
+
 ## r3 (2017/09/02)
 
 * New release : 3.2.16, 3.4.7 (Issue neard/neard#317)
